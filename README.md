@@ -6,7 +6,7 @@ Varthaman is a modern web-based communication platform designed to provide users
 
 The application combines a responsive messaging interface with a Node.js/Express backend and flexible database architecture supporting both local SQLite development and PostgreSQL/Supabase production deployments.
 
-⸻
+
 
 check out website is live here https://preetham078.github.io/varthaman/
 
